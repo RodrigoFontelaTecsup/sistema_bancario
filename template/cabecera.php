@@ -27,7 +27,7 @@ session_start();
 
 <body>
     <!-- Creamos una variable que guarde la url de redireccion -->
-    <?php $url = "http://".$_SERVER['HTTP_HOST']."/ProyectoSB" ?>
+    <?php $url = "http://".$_SERVER['HTTP_HOST']."" ?>
 
     <nav class="navbar navbar-expand navbar-light bg-light">
 
