@@ -44,6 +44,7 @@ $listaUsuarios = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
                 <th>Ape.Materno</th>
                 <th>DNI</th>
                 <th>Telefono</th>
+                <th>Dinero depositado</th>
                 <th>Opciones</th>
             </tr>
         </thead>
@@ -62,12 +63,14 @@ $listaUsuarios = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
                 <td>
                     <?php echo $usuario['segundo_apellido']; ?>
                 </td>
-
                 <td>
                     <?php echo $usuario['dni']; ?>
                 </td>
                 <td>
                     <?php echo $usuario['telefono']; ?>
+                </td>
+                <td>
+                    <?php echo $usuario['sueldo']; ?>
                 </td>
                 <td>
                     <form method="POST">

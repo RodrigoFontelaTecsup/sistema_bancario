@@ -9,7 +9,7 @@
     <p style="font-size: 25px;">
         Nombres: Rodrigo Alejandro <br>
         Apellidos: Fontela Vilcasa <br>
-        Dni: 00000000 <br>
+        Dni: 74859632 <br>
         Telefono: +51 999-999-999 <br>
     </p>
     <h3>Saldo actual:</h3>

@@ -7,19 +7,21 @@ $txtprimerApellido = (isset($_POST['txtprimerApellido'])) ? $_POST['txtprimerApe
 $txtsegundoApellido = (isset($_POST['txtsegundoApellido'])) ? $_POST['txtsegundoApellido'] : "";
 $txtDni = (isset($_POST['txtDni'])) ? $_POST['txtDni'] : "";
 $txtTelefono = (isset($_POST['txtTelefono'])) ? $_POST['txtTelefono'] : "";
+$txtDeposito = (isset($_POST['txtDeposito'])) ? $_POST['txtDeposito'] : "";
 $accion = (isset($_POST['accion'])) ? $_POST['accion'] : "";
 
 include("../configuracion/conexion.php");
 
 switch ($accion) {
     case "Registrarme":
-        $sentenciaSQL = $conexion->prepare("INSERT INTO usuarios(nombre,primer_apellido,segundo_apellido,dni,telefono) 
-            VALUES (:nombre,:primer_apellido,:segundo_apellido,:dni,:telefono);");
+        $sentenciaSQL = $conexion->prepare("INSERT INTO usuarios(nombre,primer_apellido,segundo_apellido,dni,telefono,sueldo) 
+            VALUES (:nombre,:primer_apellido,:segundo_apellido,:dni,:telefono,:sueldo);");
         $sentenciaSQL->bindParam(':nombre', $txtNombre);
         $sentenciaSQL->bindParam(':primer_apellido', $txtprimerApellido);
         $sentenciaSQL->bindParam(':segundo_apellido', $txtsegundoApellido);
         $sentenciaSQL->bindParam(':dni', $txtDni);
         $sentenciaSQL->bindParam(':telefono', $txtTelefono);
+        $sentenciaSQL->bindParam(':sueldo', $txtDeposito);
         $sentenciaSQL->execute();
         header("Location:../seccion/usuarios.php");
         break;
@@ -61,6 +63,10 @@ $listaUsuarios = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
                             <div class="form-group">
                                 <label>Telefono</label>
                                 <input type="number" class="form-control" name="txtTelefono" id="txtTelefono" placeholder="Telefono">
+                            </div>
+                            <div class="form-group">
+                                <label>Cantidad de dinero a depositar</label>
+                                <input type="number" class="form-control" name="txtDeposito" id="txtDeposito" placeholder="">
                             </div>
                             <br>
                             <button type="submit" name="accion" value="Registrarme" class="btn btn-info"

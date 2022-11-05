@@ -6,7 +6,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -17,7 +17,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -28,7 +28,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -39,7 +39,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -50,7 +50,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -61,7 +61,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -72,7 +72,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -83,7 +83,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -94,7 +94,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -105,7 +105,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -116,7 +116,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>
@@ -127,7 +127,7 @@
         <div class="card-body">
             <h4 class="card-title"><b>Adams: 30% de descuento</b></h4>
             <p class="card-text">En la segunda prenda</p>
-            <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas...</a>
+            <a name="" id="" class="btn btn-primary" href="https://www.tiendasadams.com.pe/" target="_blank" role="button">Ver mas...</a>
         </div>
     </div>
 </div>

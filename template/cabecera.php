@@ -8,8 +8,6 @@ session_start();
     }
 }
 ?>
-
-
 <!doctype html>
 <html lang="en">
 
@@ -23,8 +21,8 @@ session_start();
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/estilos.css">
-    <link rel="icon" type="image/x-icon" href="./img/adm.ico">
-    <link rel="icon" type="image/x-icon" href="./img/adm.ico">
+    <link rel="icon" type="image/x-icon" href="https://icons8.com/icon/psevkzUhHRTs/admin-settings-male">
+    <link rel="icon" type="image/x-icon" href="https://icons8.com/icon/psevkzUhHRTs/admin-settings-male">
 </head>
 
 <body>
@@ -35,10 +33,11 @@ session_start();
 
         <div class="nav navbar-nav">
             <li>
-                <img style="width: 100px; height: 100px;" src="./img/logocaballo.jpg" alt="logo">
+                <img style="width: 100px; height: 100px;" src="https://c8.alamy.com/compes/2a1ck5d/caballo-con-dinero-ilustracion-vector-sobre-fondo-blanco-2a1ck5d.jpg" alt="logo">
             </li>
             <a class="nav-link" href="<?php echo $url; ?>/inicio.php">Inicio</a>
-            <a class="nav-link" href="<?php echo $url; ?>/seccion/usuarios.php">Registrar Usuarios</a>
+            <a class="nav-link" href="<?php echo $url; ?>/seccion/usuarios.php">Usuarios registrados</a>
+            <a class="nav-link" href="<?php echo $url; ?>/cliente/vistac.php"">Vista de cliente</a>
             <a class="nav-link" href="<?php echo $url; ?>/index.php">Cerrar sesion</a>
         </div>
     </nav>
